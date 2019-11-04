@@ -2,7 +2,7 @@
 layout: post
 title:  "[IBMCloud] K8S ready CI/CD toolchain"
 date:   2019-06-02 20:03:36 +0530
-categories: kubernetes discuss docker
+categories: kubernetes toolchain docker
 ---
 
 As i am an Ibmcloud (Bluemix)user, i share with you a ready Devops toolchain that i use for my Kubernetes Deployment .
@@ -426,7 +426,7 @@ After creating k8s cluster , the latter is still always in 'Pending' status
 
 ✅ Resolution : Update Kubernetes cluster to last proposed version 
 
-⚠ Can't publish docker image on registry
+⚠ Can't publish docker image on registrys
 
 On the BUILD step of the Toolchain FAILED , because of the name of the image 
 
