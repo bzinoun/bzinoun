@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Kubernetes is and what it is not  "
-date:   2019-05-28 20:03:36 +0530
+date:   2019-06-02 20:03:36 +0530
 categories: kubernetes discuss docker
 ---
 Two questions were very important to me when my interest was on Kubernetes : 
