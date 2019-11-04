@@ -2,7 +2,7 @@
 layout: post
 title:  "Gitlab CI to Build and Push containers to registry"
 date:   2019-03-23 21:03:36 +0530
-categories: devops dev gitlab
+categories: devops dev gitlabCI
 ---
 
 
